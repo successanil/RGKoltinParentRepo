@@ -1,0 +1,6 @@
+[submodule "KotlinWeatherData"]
+	path = KotlinWeatherData
+	url = git@github.com:successanil/KotlinWeatherData.git
+[submodule "KotlinWeatherDataUI2"]
+	path = KotlinWeatherDataUI2
+	url = git@github.com:successanil/KotlinWeatherDataUI2.git
