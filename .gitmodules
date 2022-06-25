@@ -4,3 +4,9 @@
 [submodule "KotlinWeatherDataUI2"]
 	path = KotlinWeatherDataUI2
 	url = git@github.com:successanil/KotlinWeatherDataUI2.git
+[submodule "WeatherUI4"]
+	path = WeatherUI4
+	url = https://github.com/successanil/WeatherUI4.git
+[submodule "KotlinHiltDemo"]
+	path = KotlinHiltDemo
+	url = git@github.com:successanil/KotlinHiltDemo.git
