@@ -10,3 +10,15 @@
 [submodule "KotlinHiltDemo"]
 	path = KotlinHiltDemo
 	url = git@github.com:successanil/KotlinHiltDemo.git
+[submodule "BooksApiWithKotlinFlow"]
+	path = BooksApiWithKotlinFlow
+	url = git@github.com:successanil/BooksApiWithKotlinFlow.git
+[submodule "CusExoPlayer18"]
+	path = CusExoPlayer18
+	url = git@github.com:successanil/CusExoPlayer18.git
+[submodule "UnitTestingYT"]
+	path = UnitTestingYT
+	url = git@github.com:successanil/UnitTestingYT.git
+[submodule "KotlinNavigationExample"]
+	path = KotlinNavigationExample
+	url = git@github.com:successanil/KotlinNavigationExample.git
